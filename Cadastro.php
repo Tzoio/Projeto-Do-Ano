@@ -124,6 +124,9 @@ session_start();
         
            <a class="navbar-brand text-light" href="https://www.instagram.com/friendship.oficial/"><img src="Recurso/insta.png" alt="" width="50px">
         </a>
+        
+        <a class="navbar-brand text-light" href="https://w.app/Faleconoscocom"><img src="Recurso/whatsapp.png" alt="" width="50px">
+        </a>
 
         </div>
     </footer>
